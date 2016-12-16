@@ -1,0 +1,2 @@
+# pattern
+patrones de diseño
